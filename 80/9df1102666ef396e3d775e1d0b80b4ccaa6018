@@ -1,0 +1,19 @@
+doc/proposals/phone-contact-import.md
+  s_10382801b4d6b7::t_76b26d971e1953 1-128
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "809df1102666ef396e3d775e1d0b80b4ccaa6018",
+  "prompts": {},
+  "sessions": {
+    "s_10382801b4d6b7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18652-1b4c-7952-9e26-0166ce0c57d2",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Elie BRUNO <72560989+eliemada@users.noreply.github.com>"
+    }
+  }
+}
